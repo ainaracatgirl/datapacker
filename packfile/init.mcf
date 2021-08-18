@@ -1,0 +1,1 @@
+tellraw @a [{"text":"[Amethyst Amulets] ","color":"gold"},{"text":"Loaded!","color":"green"}]
